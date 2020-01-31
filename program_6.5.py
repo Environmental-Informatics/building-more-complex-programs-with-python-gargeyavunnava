@@ -17,7 +17,7 @@ As mentioned in thinkpython 2e, "One way to find the GCD of two numbers is based
 on the observation that if r is the remainder when a is divided by b, then 
 gcd(a, b) = gcd(b, r). As a base case, we can use gcd(a, 0) = a."
 
-in the end, the function returns the value of gcd
+in the end, the function 'gcd' returns the value of gcd
 """
 
 def gcd(a,b):
