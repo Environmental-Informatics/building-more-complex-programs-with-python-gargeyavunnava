@@ -98,7 +98,7 @@ offset(bob,200)
 flower(bob,180,15,20)
 
 """
-resert function used to keep the turtle window open and modify the code without the
+reset function used to keep the turtle window open and modify the code without the
 need to restart the kernel
 """
 #bob.reset() 
