@@ -4,7 +4,7 @@ Purdue account name: vvunnava
 Github account name: gargeyavunnava
 Exercise 5.2, Part 2, thinkpython 2e
 
-Problem description: function user_input to check if the user given numbers
+Problem description: function 'user_input' to check if the user given numbers
 violate the fermat theorem. fermat theorem is defined in check_fermat function.
 
 Program is valid only for numbers, no strings.
