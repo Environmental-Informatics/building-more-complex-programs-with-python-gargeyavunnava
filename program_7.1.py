@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Created on Fri Jan 31 11:39:00 2020
 Purdue account name: vvunnava
@@ -44,4 +42,4 @@ def test_square_root():
     for a in range(1,10):
          print("%.1f" % a, "%.12f" % mysqrt(a), "%.12f" % math.sqrt(a), (abs(mysqrt(a)- math.sqrt(a))),sep = "\t", end = "\n")
         
-test_square_root()
+test_square_root() #prints the table of square roots similar to the one in thinkpython 2e
